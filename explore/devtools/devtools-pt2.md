@@ -1,0 +1,2 @@
+1. The bug is that the calculateSum function is adding num1 and num2 together as strings, so instead of numberically adding the two numbers it is concatenating the two strings.
+2. I would fix it by ensuring the *num1* and *num2* are numbers while adding them.
